@@ -1,0 +1,10 @@
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.Properties.Resources.resources
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.SolarSystemInfo.resources
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.csproj.GenerateResource.Cache
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\Shai Gotlieb\source\repos\SolarSystemSolution\SolarSystem\obj\Debug\SolarSystem.pdb
